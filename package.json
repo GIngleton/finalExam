@@ -1,0 +1,17 @@
+{
+  "name": "finalexamjs",
+  "version": "1.0.0",
+  "description": "Unfortunately, your teacher has left me unfinished. I need you to finish me up.  Please do not adjust what was written so far and do not push any changes to this repository.  I need you to finish my Express Server and my Angular.js Application.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "mongoose": "^4.11.3"
+  }
+}
